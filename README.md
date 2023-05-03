@@ -1,3 +1,7 @@
-I have renamed my account to @rafiramadhana.
+# Renamed to [@rafiramadhana](https://github.com/rafiramadhana)
 
-- Rafi Ramadhana
+I have renamed my GitHub username into [@rafiramadhana](https://github.com/rafiramadhana).
+
+Thanks!
+
+_— Rafi Ramadhana_
